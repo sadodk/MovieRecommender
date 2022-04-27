@@ -31,4 +31,4 @@ A JAVA program that recommends movies for individual user sessions. The program 
 | popular* (productid's seperated by ;) |
 | recommend* (productid's seperated by ;) |
 
-* Program output
+/* Program output
