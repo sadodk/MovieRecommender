@@ -5,7 +5,7 @@
 
 **Background:**
 ------------------------------------
-Initially i wanted to create a program with JAVA, as its a language which is used for many enterprise webapplication and there are far more job opportunities for java developers in Copenhagen. So i used a couple of weeks to teach myself java language and then thought of building a program that would recommend movies to a user (similar to what we see in Netflix). To do this I found som source files i could use; one with a list of movies and corresponding attributes and with info of each usersession. The info form each usersessions initially contained userID's and the movie the user was currently viewing.
+Initially i wanted to create a program with JAVA, as its a language which is used for many enterprise webapplication. So i used a couple of weeks to teach myself java language and then thought of building a program that would recommend movies to a user (similar to what we see in Netflix). To do this I found som source files i could use; one with a list of movies and corresponding attributes and with info of each usersession. The info form each usersessions initially contained userID's and the movie the user was currently viewing.
 
 I wanted the movie recommendations to be unique based on the genre of the movie the user was viewing. I also wanted to list the 3 most popular movies to the user, popularity should be based on IMDB user ratings. I wanted all this to be a backend recommender system that extracted from files and outputted into files. 
 
